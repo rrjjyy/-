@@ -9,3 +9,10 @@
 |      |      |      |      |      |                                                              |
 |      |      |      |      |      |                                                              |
 
+> 实用网站
+
+|                            网站名                            |                     链接                     |
+| :----------------------------------------------------------: | :------------------------------------------: |
+|    [非小酋 ](https://feixiaoqiu.com/)（一个抽卡分析网站）    |           https://feixiaoqiu.com/            |
+| [圣遗物模拟强化](https://genshin.noworklife.cn/#/artifact-box) | https://genshin.noworklife.cn/#/artifact-box |
+
