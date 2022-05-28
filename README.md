@@ -8,6 +8,8 @@
 
 # 角色攻略
 
+[原学](https://m.bbs.mihoyo.com/ys?channel=appstore/#/article/21963818)
+
 [看看怎么如何配对](https://bbs.mihoyo.com/ys/strategy/channel/map/133/134?bbs_presentation_style=no_header)
 
 # 地图工具
