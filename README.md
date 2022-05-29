@@ -38,11 +38,13 @@
 
 角色视频pv测试	
 
+
+
 <video src="https://uploadstatic.mihoyo.com/ys-obc/2022/02/16/4359827/543b80c75be56e9969dec743ce378975_2473323176946763421.mp4" controls="controls" controlslist="nodownload" poster="https://uploadstatic.mihoyo.com/ys-obc/2022/02/16/4359827/543b80c75be56e9969dec743ce378975_2473323176946763421.mp4?x-oss-process=video%2Fsnapshot%2Ct_0%2Cf_jpg%2Ch_600%2Cm_fast" webkit-playsinline="true" playsinline="true" style="vertical-align:middle;" ></video>
 
 
 
-
+<iframe src="https://uploadstatic.mihoyo.com/ys-obc/2022/02/16/4359827/543b80c75be56e9969dec743ce378975_2473323176946763421.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600px"> </iframe>
 
 
 <iframe src="//player.bilibili.com/player.html?aid=424116376&bvid=BV1X341177zi&cid=510658317&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600px"> </iframe>
