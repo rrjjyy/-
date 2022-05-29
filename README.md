@@ -20,5 +20,46 @@
 
 - [非小酋 ](https://feixiaoqiu.com/)（一个抽卡分析网站）
 - [圣遗物模拟强化](https://genshin.noworklife.cn/#/artifact-box)
-
 - [心得交流 原神工具汇总 NGA玩家社区](https://nga.178.com/read.php?tid=24362520&rand=718)
+
+
+
+
+
+
+
+胡桃语音：
+
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://uploadstatic.mihoyo.com/ys-obc/2021/03/14/4359827/a61b1455b451e2a745d3aff31a542eab_288767623554272974.mp3">
+</audio>
+
+
+
+角色视频pv测试	
+
+<video src="https://uploadstatic.mihoyo.com/ys-obc/2022/02/16/4359827/543b80c75be56e9969dec743ce378975_2473323176946763421.mp4" controls="controls" controlslist="nodownload" poster="https://uploadstatic.mihoyo.com/ys-obc/2022/02/16/4359827/543b80c75be56e9969dec743ce378975_2473323176946763421.mp4?x-oss-process=video%2Fsnapshot%2Ct_0%2Cf_jpg%2Ch_600%2Cm_fast" webkit-playsinline="true" playsinline="true" style="width:800px;vertical-align:middle;" ></video>
+
+
+
+
+
+
+<iframe src="//player.bilibili.com/player.html?aid=424116376&bvid=BV1X341177zi&cid=510658317&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600px"> </iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
