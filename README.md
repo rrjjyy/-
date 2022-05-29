@@ -41,7 +41,7 @@
 
 
 
-<iframe src="https://uploadstatic.mihoyo.com/ys-obc/2022/02/16/4359827/543b80c75be56e9969dec743ce378975_2473323176946763421.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600px"> </iframe>
+<iframe src="https://uploadstatic.mihoyo.com/ys-obc/2022/02/16/4359827/543b80c75be56e9969dec743ce378975_2473323176946763421.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="au"> </iframe>
 
 
 
